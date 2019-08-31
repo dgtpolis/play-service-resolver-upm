@@ -1,0 +1,15 @@
+{
+  "name": "com.google.play-resolver",
+  "version": "1.2.124",
+  "displayName": "Play Service Resolver",
+  "description": "This is UPM style from https://github.com/googlesamples/unity-jar-resolver",
+  "unity": "2019.3",
+  "unityRelease": "0b1",
+  "keywords": [
+    "resolver"
+  ],
+  "author": {
+    "name": "Google",
+    "Url": "https://github.com/googlesamples/unity-jar-resolver"
+  }
+}
